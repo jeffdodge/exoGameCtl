@@ -1,0 +1,38 @@
+body,td
+{
+   scrollbar-base-color: #5D5D5D;
+   scrollbar-arrow-color: #E1E1E1;
+   font-family: verdana;
+   font-size: 7.5pt;
+   color: #000000;
+}
+a
+{
+   color: #000000;
+   font-weight: bold;
+}
+a:hover
+{
+   color:#ffffff;
+}
+.accesslvl
+{
+   background-color: #ffffff;
+   color: #000000;
+   font-family: Verdana;
+   font-size:7.5pt;
+   font-weight: bold;
+   border-width : 0px;
+   border-color : #ffffff;
+}
+.input, .textarea, .select, .button
+{
+   background-color: #ffffff;
+   border-bottom: black 1px solid; 
+   border-left: black 1px solid; 
+   border-right: black 1px solid; 
+   border-top: black 1px solid; 
+   color: black;
+   font-family: "Verdana"; 
+   font-size: 10px;
+}
