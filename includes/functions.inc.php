@@ -34,7 +34,7 @@
 ************************************************************************/
    $name    = "exoGameCtl";
    $vernum  = "2.0.7";
-   $coding  = "i"; // s/i/z (sg/ion/zend)
+   $coding  = ""; // s/i/z (sg/ion/zend)
 
    $version = $vernum . $coding;
    $product = $name . " " . $version;
